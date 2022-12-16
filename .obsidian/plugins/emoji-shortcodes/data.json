@@ -1,0 +1,13 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":magnet:",
+    ":broom:",
+    ":a:",
+    ":bricks:",
+    ":smiling_imp:"
+  ]
+}
