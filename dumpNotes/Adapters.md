@@ -1,0 +1,7 @@
+A camada de adapters em uma estrutura de arquitetura limpa em Java é responsável por adaptar os recursos externos, como bancos de dados, APIs de terceiros ou sistemas legados, para que eles possam ser utilizados pelo resto da aplicação de maneira consistente.
+
+Essa camada fica entre a camada de entidade, que contém os modelos de dados da aplicação, e a camada de infraestrutura, que contém os recursos externos. Ela é responsável por converter os dados do formato usado pelo recurso externo para o formato esperado pela camada de entidade e vice-versa.
+
+Por exemplo, imagine que você está construindo uma aplicação que precisa acessar um banco de dados MySQL. A camada de adapters pode conter uma classe que se conecta ao banco de dados, faz as consultas necessárias e converte os resultados das consultas em objetos da camada de entidade, prontos para serem usados pelo resto da aplicação.
+
+O uso da camada de adapters tem como objetivo manter a camada de entidade e a camada de infraestrutura isoladas uma da outra, o que permite que cada uma seja alterada independentemente sem afetar o funcionamento da outra. Isso também facilita a manutenção e o teste da aplicação, pois permite que você teste cada camada separadamente.

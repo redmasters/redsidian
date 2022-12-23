@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c98cf5fc53528561","x":-746,"y":-317,"width":400,"height":400,"color":"4","type":"file","file":"cleanArch/1.1 - Camada de Dominio.md"},
+		{"id":"b0ec53d3463f204f","x":-253,"y":-317,"width":400,"height":400,"color":"1","type":"file","file":"cleanArch/1.3 - Camada de Aplicacao.md"},
+		{"id":"ddc6438494763059","x":250,"y":-317,"width":400,"height":400,"color":"2","type":"file","file":"cleanArch/1.2 - Camada de Infraestrutura.md"},
+		{"id":"271806c81de63f7a","x":-346,"y":-1120,"width":493,"height":540,"color":"5","type":"file","file":"cleanArch/1 - Clean Arch.md"}
+	],
+	"edges":[
+		{"id":"a2ede94ed0d99151","fromNode":"271806c81de63f7a","fromSide":"bottom","toNode":"b0ec53d3463f204f","toSide":"top"},
+		{"id":"e8242cbd87b38922","fromNode":"271806c81de63f7a","fromSide":"bottom","toNode":"c98cf5fc53528561","toSide":"top"},
+		{"id":"856bdf22c2615ab9","fromNode":"271806c81de63f7a","fromSide":"bottom","toNode":"ddc6438494763059","toSide":"top"}
+	]
+}
