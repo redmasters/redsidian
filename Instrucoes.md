@@ -16,10 +16,10 @@ Valor.
 Tags.
 
 Funcionalidades desejadas:
-- Criar um gasto.
-- Listar todos os gastos.
-- Listar um gasto por id.
+- [x]  Criar um gasto.
+* [x]  Listar todos os gastos.
+- [x] Listar um gasto por id.
 Considerações:
-- Persistir em um banco de dados relacional
+- [x] Persistir em um banco de dados relacional
 
-2) Criar uma client para acessar as funcionalidades da API do passo 1.
+2) [ ] Criar uma client para acessar as funcionalidades da API do passo 1.

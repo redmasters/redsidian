@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Instrucoes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -148,9 +148,9 @@
   },
   "active": "1088ef78d652f576",
   "lastOpenFiles": [
-    "Api-Gastos.md",
-    "Funcionalidades.md",
     "Guia de Desenvolvimento.md",
+    "Funcionalidades.md",
+    "Api-Gastos.md",
     "Instrucoes.md",
     "19-12-2022.md",
     "cleanArch/1 - Clean Arch.md",

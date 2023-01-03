@@ -1,4 +1,4 @@
-- [ ] Criar um Gasto
-- [ ] Listar gastos
-- [ ] Listar gastos por id
-- [ ] Salvar no postgres
+- [x] Criar um Gasto
+- [x] Listar gastos
+- [x] Listar gastos por id
+- [x] Salvar no postgres
