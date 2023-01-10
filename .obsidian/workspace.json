@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Instrucoes.md",
-                "mode": "source",
+                "file": "Guia de Desenvolvimento.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instrucoes.md",
+                "file": "Guia de Desenvolvimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instrucoes.md",
+                "file": "Guia de Desenvolvimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instrucoes.md"
+                "file": "Guia de Desenvolvimento.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "1088ef78d652f576",
   "lastOpenFiles": [
-    "Guia de Desenvolvimento.md",
-    "Funcionalidades.md",
-    "Api-Gastos.md",
     "Instrucoes.md",
+    "Api-Gastos.md",
+    "Funcionalidades.md",
+    "Guia de Desenvolvimento.md",
     "19-12-2022.md",
     "cleanArch/1 - Clean Arch.md",
     "cleanArch/Clean Arch.canvas",
