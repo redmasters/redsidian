@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9acd4416c0a6dffe",
+            "id": "231b21cee09386b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md"
+              }
             }
           }
         ]
@@ -138,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9acd4416c0a6dffe",
+  "active": "231b21cee09386b4",
   "lastOpenFiles": [
-    "README.md",
+    "fullCycle/Caracteristicas arquiteturais.md",
+    "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+    "fullCycle/Fundamentos da arquitetura de software.md",
+    "devDiary/31-03-2023.md",
+    "devDiary/09-03-2023.md",
+    "fullCycle",
+    "devDiary/08-03-2023.md",
+    "devDiary/06-03-2023.md",
     "19-12-2022.md",
+    "devDiary",
     "Kotlin/Kotlin - Aprendizado.md",
     "public Learning/Aprenda em publico.md",
+    "README.md",
     "desafioExactaWorks/Api-Gastos.md",
     "23-12-2022.md",
     "17-12-2022.md",
