@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da2204c0ba9de87c",
+        "id": "f183fc51708cda23",
         "type": "tabs",
         "children": [
           {
-            "id": "231b21cee09386b4",
+            "id": "d8416b8ac8f580be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+                "file": "devDiary/04-04-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+                "file": "devDiary/04-04-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+                "file": "devDiary/04-04-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fullCycle/Perpectivas para arquitetar software de qualidade.md"
+                "file": "devDiary/04-04-2023.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "231b21cee09386b4",
+  "active": "d8416b8ac8f580be",
   "lastOpenFiles": [
-    "fullCycle/Caracteristicas arquiteturais.md",
     "fullCycle/Perpectivas para arquitetar software de qualidade.md",
+    "devDiary/04-04-2023.md",
+    "devDiary/03-04-2023.md",
+    "devDiary/01-04-2023.md",
+    "fullCycle/Caracteristicas arquiteturais.md",
     "fullCycle/Fundamentos da arquitetura de software.md",
     "devDiary/31-03-2023.md",
     "devDiary/09-03-2023.md",
